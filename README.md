@@ -1,21 +1,36 @@
-# Iris Flower Classification - Week 1
+# Iris Flower Classification 
 
-## Project Overview
-This project is part of my Machine Learning learning journey.
-In Week 1, I focused on understanding the Iris dataset using Python and Pandas. The goal was to load, inspect, clean, and prepare the dataset for machine learning.
+## Week 1 - Data Handling and Preprocessing
 
-## Objectives
-- Load the Iris dataset
-- Explore the dataset structure
-- Understand features and labels
-- Perform basic data cleaning
-- Prepare the dataset for model training
+- Loaded the Iris dataset using Pandas.
+- Removed the unnecessary `Id` column.
+- Checked for missing values.
+- Removed duplicate records.
+- Checked the different flower species and their counts.
+- Selected the flower measurements as features.
+- Selected the flower species as the target label.
+
+## Week 2 - Analysis, Visualization and Classification
+
+- Visualized the feature distributions using Matplotlib histograms.
+- Created a scatter plot to compare petal length and petal width.
+- Split the dataset into training and testing data.
+- Built a Logistic Regression classification model.
+- Trained the model using the training data.
+- Predicted flower species using the test data.
+- Evaluated the model using:
+  - Accuracy
+  - Confusion Matrix
+  - Classification Report
+- Tested the model with a new flower sample.
 
 ## Technologies Used
 - Python
 - Pandas
 - NumPy
-
+- Matplotlib
+- Scikit-learn
+- 
 ## Dataset
 - **Name:** Iris Flower Dataset
 - **Source:** Kaggle
@@ -30,11 +45,3 @@ In Week 1, I focused on understanding the Iris dataset using Python and Pandas. 
   - Iris-versicolor
   - Iris-virginica
 
-## Tasks Completed
-- Loaded the dataset using Pandas
-- Explored the dataset using `head()`, `info()`, and `describe()`
-- Checked dataset shape and column names
-- Removed unnecessary columns
-- Checked for missing values
-- Checked for duplicate records
-- Identified input features and target labels
