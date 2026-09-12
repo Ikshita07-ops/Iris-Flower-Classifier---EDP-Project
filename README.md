@@ -55,6 +55,30 @@ A Machine Learning project that focuses on data preprocessing, visualization, cl
 * Observed that **Petal Length and Petal Width provide better separation between Iris species**.
 * Observed that **Iris-setosa is clearly separated**, while Iris-versicolor and Iris-virginica show some overlap.
 
+  ## Week 5 - K-Nearest Neighbors (KNN)
+
+* Learned the basics of the **K-Nearest Neighbors (KNN)** classification algorithm.
+* Applied **Feature Scaling** using StandardScaler since KNN is distance-based.
+* Built a KNN classification model using Scikit-learn.
+* Tested different values of **K** to find the best performing model.
+* Predicted flower species using the trained KNN model.
+* Evaluated the model using:
+  * Accuracy
+  * Confusion Matrix
+  * Classification Report
+* Visualized the relationship between K values and model accuracy.
+
+## Week 6 - Decision Tree and Model Comparison
+
+* Learned the basics of the **Decision Tree Classification** algorithm.
+* Built and trained a Decision Tree classification model.
+* Predicted flower species using the trained model.
+* Evaluated the model using:
+  * Accuracy
+  * Confusion Matrix
+  * Classification Report
+* Visualized the Decision Tree and its decision-making process.
+
 ## Technologies Used
 
 * Python
