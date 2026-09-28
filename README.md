@@ -79,6 +79,19 @@ A Machine Learning project that focuses on data preprocessing, visualization, cl
   * Classification Report
 * Visualized the Decision Tree and its decision-making process.
 
+  ### Week 7 — Hyperparameter Tuning and Model Comparison
+
+- Used grid search and cross-validation to tune KNN and Decision Tree models.
+- Compared the best configurations using cross-validation accuracy.
+- Selected the model with the best cross-validation performance.
+- Evaluated the selected model on held-out test data and reviewed its classification report and confusion matrix.
+
+### Week 8 — Documentation and GitHub
+
+- Organized the project files and documented the project workflow.
+- Prepared the README with information about the datasets, technologies, scripts, and model evaluation.
+- Learned how to publish a project on GitHub and use version control to track changes
+
 ## Technologies Used
 
 * Python
@@ -103,7 +116,6 @@ A Machine Learning project that focuses on data preprocessing, visualization, cl
   * Petal Length
   * Petal Width
 * **Target:**
-
   * Iris-setosa
   * Iris-versicolor
   * Iris-virginica
@@ -113,7 +125,5 @@ A Machine Learning project that focuses on data preprocessing, visualization, cl
 * **Purpose:** SMS Spam Classification
 * **Features:** SMS message text
 * **Target:**
-
   * HAM
   * SPAM
-
