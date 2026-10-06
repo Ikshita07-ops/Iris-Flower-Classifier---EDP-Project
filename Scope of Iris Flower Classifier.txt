@@ -1,0 +1,4 @@
+My project is Iris Flower Classification using Machine Learning.
+The project focuses on classifying iris flowers into three species: Setosa, Versicolor, and Virginica using sepal and petal measurements. 
+The completed work includes data preprocessing, exploratory data analysis, visualization, machine learning model development, training, testing, and evaluation. 
+The final scope of the project is to build an effective classification system that can predict the species of an iris flower based on its input features. Future improvements may include enhancing model performance and developing a simple user interface for real-time prediction.
